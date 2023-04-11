@@ -1,9 +1,44 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "items": [
+    {
+      "id": 1,
+      "name": "Italy"
+    },
+    {
+      "id": 2,
+      "name": "Portugal"
+    },
+    {
+      "id": 3,
+      "name": "Honduras"
+    },
+    {
+      "id": 4,
+      "name": "France"
+    },
+    {
+      "id": 5,
+      "name": "Brazil"
+    },
+    {
+      "id": 6,
+      "name": "Japan"
+    },
+    {
+      "id": 7,
+      "name": "Argentina"
+    },
+    {
+      "id": 8,
+      "name": "Mexico"
+    },
+    {
+      "id": 9,
+      "name": "England"
+    },
+    {
+      "id": 10,
+      "name": "Spain"
+    }
+  ]
 }
